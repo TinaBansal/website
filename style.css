@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(83, 83, 144);
+    height: 100%;
+    width: 100%;
+}
+h1{
+    height: 100px;
+    width: 100px;
+    display: inline;
+    font-weight: bold;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: black;
+    border-width: 15%;
+    border-radius: 15%;
+    box-shadow: 10px 10px 10px black;
+    margin-left: 50%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 70;
+}
+section{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 200;
+}
